@@ -1,7 +1,7 @@
 # protobuf-alpine
 
-[![GitHub Latest Tag](https://img.shields.io/github/v/tag/meMo-Minsk/protobuf-alpine?label=github+tag)](https://github.com/meMo-Minsk/protobuf-alpine)
-[![Travis Build Status](https://img.shields.io/travis/meMo-Minsk/protobuf-alpine?label=travis+build)](https://travis-ci.org/meMo-Minsk/protobuf-alpine/builds)
+[![GitHub Latest Tag](https://img.shields.io/github/v/tag/yegor-usoltsev/protobuf-alpine?label=github+tag)](https://github.com/yegor-usoltsev/protobuf-alpine)
+[![Travis Build Status](https://img.shields.io/travis/yegor-usoltsev/protobuf-alpine?label=travis+build)](https://travis-ci.org/yegor-usoltsev/protobuf-alpine/builds)
 [![Docker Build Status](https://img.shields.io/docker/cloud/build/memominsk/protobuf-alpine)](https://hub.docker.com/r/memominsk/protobuf-alpine/builds)
 
 ## Usage
